@@ -1,0 +1,34 @@
+StereoSR:
+
+KITTI2012 mean psnr left:  26.619422161710588
+KITTI2012 mean psnr average:  26.712393708455398
+
+KITTI2015 mean psnr left:  25.74107406904548
+KITTI2015 mean psnr average:  26.464446701876494
+
+Middlebury mean psnr left:  29.308098231282155
+Middlebury mean psnr average:  29.381088935551993
+
+Flickr1024 mean psnr left:  23.50759679238374
+Flickr1024 mean psnr average:  23.585143575772204
+
+
+Disparity estimation:
+
+K2015 disp high left all1:  4.089844226837158
+K2015 disp high left noc1:  3.322787284851074
+K2015 disp high left all0:  5.026285648345947
+K2015 disp high left noc0:  4.3886919021606445
+K2015 disp left all1:  4.741995811462402
+K2015 disp left noc1:  3.98885440826416
+K2015 disp left all0:  5.614530086517334
+K2015 disp left noc0:  4.997827529907227
+
+K2012 disp high left all1:  4.963388919830322
+K2012 disp high left noc1:  3.6856789588928223
+K2012 disp high left all0:  6.467651844024658
+K2012 disp high left noc0:  5.434603214263916
+K2012 disp left all1:  5.762098789215088
+K2012 disp left noc1:  4.506109237670898
+K2012 disp left all0:  7.1608195304870605
+K2012 disp left noc0:  6.164617538452148
