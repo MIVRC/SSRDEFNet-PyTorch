@@ -13,7 +13,7 @@ The pre-trained model for x4 SR is in ./checkpoints/SSRDEF_x4SR_epoch80.pth.tar<
 
 All reconstructed images for x4 SR can be download from <a href="https://www.jianguoyun.com/p/Db8LmLwQ19ySBxjA-rEE">SSRDEFNet_Results</a> 
 
-All test datasets (Preprocessed HR images) can be download from <a href="">SSRDEFNet_Test</a> 
+All test datasets (Preprocessed HR images) can be download from <a href="https://www.jianguoyun.com/p/DTpsWpYQ19ySBxjH_bEE">SSRDEFNet_Test</a> 
 
 Extract the dataset and put them into the ./data/test/.
 
